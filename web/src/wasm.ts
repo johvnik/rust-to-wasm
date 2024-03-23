@@ -1,4 +1,3 @@
-
 const importObject = {
   imports: {
     random: () => Math.random(),
